@@ -1,0 +1,5 @@
+# how many apples are in a n tree area
+x = int(input("how many trees are in the area: "))
+apples = x
+print("the number of apples is " + str(apples))
+
