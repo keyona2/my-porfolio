@@ -1,5 +1,5 @@
-# how many apples are in a n tree area
+# how many apples are in a 3 tree area
 x = int(input("how many trees are in the area: "))
-apples = x
+apples = (x-1)*x/2
 print("the number of apples is " + str(apples))
 
